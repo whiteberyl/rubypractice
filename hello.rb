@@ -8,3 +8,9 @@ puts "hello, #{name}!"
 puts "how old are you?"
 age = gets.chomp
 puts "dang #{age} is pretty old!"
+
+firstname = "white"
+lastname = "beryl"
+realname = "goshenite"
+
+puts "hello #{firstname} #{lastname} also known as #{realname}"
