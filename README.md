@@ -1,6 +1,6 @@
 # 🌸 Ruby Practice
 
-daily Ruby scripts, experiments, and small projects.  
+daily ruby scripts, experiments, and small projects.  
 I’m using this repo to learn Ruby step by step and track my progress.
 
 ---
